@@ -6,7 +6,11 @@ Domains collected from various sources including my own filters.
 
 I don't consider these people spammers per se. ( Sometimes when you don't have a job you'd like to hear from them!! )
 
-You can use domains.txt raw elsewhere in your own way.
+But most of the time you want their mail to go somewhere out of the way like a Jobs folder.
+
+After all, your Inbox is holy ground for friends and family and nobody else.
+
+Feel free to use domains.txt raw, elsewhere, in your own way, or submit patches to create filters for other tech.
 
 You can see how I build up a little maildrop filter with it via the other files.
 
