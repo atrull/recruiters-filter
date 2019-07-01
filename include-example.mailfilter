@@ -1,0 +1,8 @@
+if (/^(Received|To):\s.*(jobs|cv).user@domain.org.*/)
+{
+      to "$MAILHOME/$DOMAIN/$USER/.Jobs"
+}
+
+exception {
+        include $MAILHOME/$DOMAIN/$USER/jobs.mailfilter
+}
