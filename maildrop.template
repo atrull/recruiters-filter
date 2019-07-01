@@ -1,0 +1,6 @@
+
+if (/^From:\s.*@(PIPESEPARATEDLIST).*/)
+{
+      to "$MAILHOME/$DOMAIN/$USER/.Jobs"
+}
+
